@@ -9,7 +9,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Predictive models for diagnosis of middle ear disease in infancy: An overview of my Phd project
+# Predictive models for diagnosis of middle ear disease in infancy: An overview of my PhD project
 ### Joshua Myers
 
 ## 1. Introduction
@@ -82,15 +82,15 @@ I developed predictive models for objective diagnosis of middle ear disease in i
 I have made the models available to clinicians by implementing them in a web application which is available [here](https://joshmyers.shinyapps.io/WAIPredictions/). To try out the model choose an age group from the "Select age" menu, then click one of the example files to download to your compluter (this is the test result that is saved by the clinican), and then upload the file with the "Browse" button to make a prediction based on the results saved in the file. 
 
 ## 8. References
-Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., Khan, A., Manual, A., Joseph, A., Malicka, A. N. (2018a). Development of a diagnostic prediction model for conductive conditions in neonates using wideband acoustic immittance. Ear and Hearing, 39(6), 1116-1135.
+Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., et al. (2018a). Development of a diagnostic prediction model for conductive conditions in neonates using wideband acoustic immittance. Ear and Hearing, 39(6), 1116-1135.
 
-Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., Khan, A., Manual, A., Joseph, A., Malicka, A. N. (2018b). Diagnosing middle ear pathology in 6- to 9-month-old infants using wideband absorbance: A risk prediction model. Journal of Speech Language and Hearing Research, 61(9), 2386-2404.
+Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., et al. (2018b). Diagnosing middle ear pathology in 6- to 9-month-old infants using wideband absorbance: A risk prediction model. Journal of Speech Language and Hearing Research, 61(9), 2386-2404.
 
-Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., Khan, A., Manual, A., Joseph, A., Malicka, A. N. (2019a). Diagnosing middle ear dysfunction in 10- to 16-month-old infants using wideband absorbance: An ordinal prediction model. Manuscript submitted to Journal of Speech Language and Hearing Research.
+Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., et al. (2019a). Diagnosing middle ear dysfunction in 10- to 16-month-old infants using wideband absorbance: An ordinal prediction model. Manuscript submitted to Journal of Speech Language and Hearing Research.
 
-Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., Khan, A., Manual, A., Joseph, A., Malicka, A. N. (2019b). Longitudinal development of wideband absorbance and admittance through infancy. Manuscript submitted to Journal of Speech Language and Hearing Research.
+Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., et al. (2019b). Longitudinal development of wideband absorbance and admittance through infancy. Manuscript submitted to Journal of Speech Language and Hearing Research.
 
-Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., Khan, A., Manual, A., Joseph, A., Malicka, A. N. (2019c). Diagnosing conductive dysfunction in infants using wideband acoustic immittance: Validation and development of predictive models. Manuscript submitted to Journal of Speech Language and Hearing Research.
+Myers, J., Kei, J., Aithal, S., Aithal, V., Driscoll, C., et al. (2019c). Diagnosing conductive dysfunction in infants using wideband acoustic immittance: Validation and development of predictive models. Manuscript submitted to Journal of Speech Language and Hearing Research.
 
 
 <br>
